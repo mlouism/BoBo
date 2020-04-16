@@ -13,6 +13,7 @@ class GreenViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Green view loaded!")
+        print("TEST")
         // Do any additional setup after loading the view.
     }
     
