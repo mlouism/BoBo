@@ -17,6 +17,7 @@ class PurpleViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Purple view loaded")
+        print("TEST02")
 //        labelPurple.text = globalVar
         // Do any additional setup after loading the view.
     }

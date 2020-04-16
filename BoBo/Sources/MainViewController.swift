@@ -18,7 +18,7 @@ class MainViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("MainViewController did Load!")
-        print("test")
+        print("test0")
     }
     
     override func viewWillAppear(_ animted: Bool) {
