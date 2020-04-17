@@ -29,6 +29,7 @@ class PurpleViewController: UIViewController {
         super.viewWillDisappear(true)
         print("Purple View will disapper")
 //        globalVar = "From Purple View!"
+//        globalVar = "Purple gone!"
         labelPurple.text = globalVar
         
     }

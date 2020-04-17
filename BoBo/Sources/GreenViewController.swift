@@ -14,6 +14,7 @@ class GreenViewController: UIViewController {
         super.viewDidLoad()
         print("Green view loaded!")
         print("TEST")
+        globalVar = "Green gone!"
         // Do any additional setup after loading the view.
     }
     

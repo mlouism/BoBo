@@ -19,7 +19,7 @@ class RedViewController: UIViewController {
     override func viewWillDisappear(_ animated: Bool) {
         super.viewWillDisappear(true)
         print("Red will disapper")
-        
-        globalVar = "From Red View!"
+        globalVar = "Red gone!"
+
     }
 }
